@@ -1,5 +1,3 @@
-// Hello Bro this is a my c language programm
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
